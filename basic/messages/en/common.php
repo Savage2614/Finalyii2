@@ -1,0 +1,37 @@
+<?php 
+return [
+'Главная'=>'Home',
+'Example1'=>'Everyday practice shows that the further development of various forms of activity is an interesting experiment in testing new proposals.
+',
+'AboutIcon1'=>'Thus, the framework and place of staff training allows you to carry out important tasks for the development of further development directions.
+',
+'Clients'=>'Clients',
+'Projects'=>'Projects',
+'Hours'=>'Hours Of Support',
+'Workers'=>'Hard Workers',
+'Check'=>'Check our ',
+'Call'=>'Call To Action',
+'Portfolio'=>'Portfolio',
+'Testimonials'=>'Testimonials',
+'What they'=>'What They ',
+'Are saying'=>'Are Saying ',
+'About us'=>'About Us',
+'Team'=>'Team',
+'Our' => 'Our Hard Working ',
+'Contact' => 'Contact',
+'Get' => 'Get In Touch With ',
+'Us' => 'Us',
+'Address' => 'Address',
+'Call' => 'Call us',
+'Email' => 'Email us',
+'Wk' => 'Working Hours',
+'Message sent' => 'Your message has been sent. Thank you!',
+'Terms' => 'Terms of Service',
+'Privacy' => 'Privacy Policy',
+'Phone' => 'Phone:',
+'Email' => 'Email:',
+'Monfri' => 'Mon - Fri: 9AM to 5PM',
+'Sunday' => 'Sunday: 9AM to 1PM',
+'Rights' => 'All Rights Reserved',
+];
+?>
